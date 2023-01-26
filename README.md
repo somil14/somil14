@@ -1,7 +1,7 @@
 [![MasterHead](https://aureatelabs.com/wp-content/uploads/2019/10/Magento-2-frontend-tools-for-developers-blog-banner.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Somil Athole</h1>
 <h3 align="center">Frontend Developer || UX/UI Developer</h3>
-<img align="right" alt="Coding" width="330" height="220" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif">
+<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somil14&label=Profile%20views&color=0e75b6&style=flat" alt="somil14" /> </p>
 
