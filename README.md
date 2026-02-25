@@ -1,7 +1,7 @@
 [![MasterHead](https://aureatelabs.com/wp-content/uploads/2019/10/Magento-2-frontend-tools-for-developers-blog-banner.jpg)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Somil Athole</h1>
-<h3 align="center">Frontend Developer || UX/UI Developer</h3>
+<h3 align="center">Full Stack Dev | AWS | MERN</h3>
 
 <img align="right" alt="Coding" width="170" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif">
 
@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [www.github.com/somil14](www.github.com/somil14)
 
-- 💬 Ask me about **HTML, CSS, JavaScript & ReactJs**
+- 💬 Ask me about **MERN | AWS | CI/CD**
 
 - 📫 How to reach me **sathole2001@gmail.com**
 
