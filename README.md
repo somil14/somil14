@@ -1,41 +1,135 @@
-[![MasterHead](https://aureatelabs.com/wp-content/uploads/2019/10/Magento-2-frontend-tools-for-developers-blog-banner.jpg)](https://rishavchanda.io)
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Somil Athole</h1>
-<h3 align="center">Full Stack Dev | AWS | MERN</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:16213e&height=200&section=header&text=Somil%20Athole&fontSize=60&fontColor=00d4ff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Security%20Tooling%20%7C%20Browser%20Extensions&descAlignY=60&descSize=16&descColor=8892b0" />
 
-<img align="right" alt="Coding" width="170" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif">
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=somil14&label=Profile%20views&color=0e75b6&style=flat" alt="somil14" /> </p>
+<br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somil14" alt="somil14" /></a> </p>
+<div align="center">
 
-<p align="left"> <a href="https://twitter.com/somil_athole" target="blank"><img src="https://img.shields.io/twitter/follow/somil_athole?logo=twitter&style=for-the-badge" alt="somil_athole" /></a> </p>
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/somil_athole)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/somil-athole-39915a15a)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/somilathole)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/somilathole)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/sathole2001)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sathole2001@gmail.com)
 
-- 🔭 I’m currently **Student**
+</div>
 
-- 🌱 I’m currently learning **ReactJs and Adobe Illustrator**
+---
 
-- 👨‍💻 All of my projects are available at [www.github.com/somil14](www.github.com/somil14)
+## `> whoami`
 
-- 💬 Ask me about **MERN | AWS | CI/CD**
+```typescript
+const somil = {
+  role:     "Full Stack Engineer",
+  focus:    ["Security Tooling", "Browser Extensions", "Web Products"],
+  stack:    ["MERN", "AWS", "TypeScript", "Chrome Extension APIs"],
+  building: ["BranchHub", "SentinelParse", "DeepTraq"],
+  ask_me_about: ["MERN", "AWS", "CI/CD", "Chrome Web Store Publishing"],
+  os:       "macOS",
+  editors:  ["VS Code", "Claude Code"],
+};
+```
 
-- 📫 How to reach me **sathole2001@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/somil_athole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="somil_athole" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/somil-athole-39915a15a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="somil-athole-39915a15a" height="30" width="40" /></a>
-<a href="https://instagram.com/somilathole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="somilathole" height="30" width="40" /></a>
-<a href="https://www.behance.net/somilathole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="somilathole" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sathole2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sathole2001" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/HD93xHxR8r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/HD93xHxR8r" height="30" width="40" /></a>
-</p>
+## `> ls ./projects`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<table>
+<tr>
+<td width="50%">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=somil14&show_icons=true&locale=en&layout=compact" alt="somil14" /></p>
+### 🌿 BranchHub
+> Chat decision capture tool — records conversation branches, surfaces key decisions in real time.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=somil14&show_icons=true&locale=en" alt="somil14" /></p>
+![Chrome Extension](https://img.shields.io/badge/Chrome%20Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Published](https://img.shields.io/badge/Chrome%20Web%20Store-Published-00c853?style=flat-square)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=somil14&" alt="somil14" /></p>
+</td>
+<td width="50%">
+
+### 🛡️ SentinelParse
+> Security-focused AI chat parser & exporter with inline PII highlighting, connected source monitoring, and export/alert pipelines.
+
+![Security](https://img.shields.io/badge/Security%20Tooling-FF4444?style=flat-square)
+![Chrome Extension](https://img.shields.io/badge/Chrome%20Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔍 DeepTraq
+> Session recorder for AI interactions — captures traffic, sessions, and context for vulnerability analysis. HAR file deep-dive, JWT exposure detection, CORS audit.
+
+![Security](https://img.shields.io/badge/Security%20Tooling-FF4444?style=flat-square)
+![HAR Analysis](https://img.shields.io/badge/HAR%20Analysis-00d4ff?style=flat-square)
+
+</td>
+<td width="50%">
+
+### 🏢 G3 Business Services
+> Full redesign — single-file HTML with tabbed service explorer, branded typography, and responsive layout.
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## `> cat ./tech-stack.json`
+
+### ⚡ Core
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### 🎨 Frontend & Design
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+
+### 🔐 Security & Tooling
+![Chrome Extensions](https://img.shields.io/badge/Chrome%20Extension%20APIs-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![HAR Analysis](https://img.shields.io/badge/HAR%20%2F%20JWT%20%2F%20CORS-FF4444?style=for-the-badge)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+---
+
+## `> cat ./github-stats.sh`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=somil14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somil14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=somil14&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d4ff&sideLabels=8892b0&dates=8892b0" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0f0f0f&height=100&section=footer" />
+
+</div>
