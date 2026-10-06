@@ -30,8 +30,34 @@ const somil = {
   ask_me_about: ["MERN", "AWS", "CI/CD", "Chrome Web Store Publishing"],
   os:       "macOS",
   editors:  ["VS Code", "Claude Code"],
+  open_source: ["compiler-explorer (godbolt.org)"],
 };
 ```
+
+---
+
+## `> git log --author=somil14 ./open-source`
+
+<table>
+<tr>
+<td>
+
+### 🧩 Compiler Explorer &nbsp;·&nbsp; [godbolt.org](https://godbolt.org)
+
+**[#9220 · Use GCC 6.4.0 toolchain for ICC 18 to fix broken binaries](https://github.com/compiler-explorer/compiler-explorer/pull/9220)** &nbsp; ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=github&logoColor=white) ![Live](https://img.shields.io/badge/Live%20on%20godbolt.org-00c853?style=flat-square)
+
+> Binaries built with Intel ICC 18 crashed during libc startup ([#1400](https://github.com/compiler-explorer/compiler-explorer/issues/1400)). Traced it to the GCC 6.3.0 install ICC 18 used as its backend toolchain and switched the C and C++ configs to the already-deployed GCC 6.4.0. Merged into `main` and live on godbolt.org — my first open-source contribution.
+
+**[#9218 · Validate saved layout before restoring it from storage](https://github.com/compiler-explorer/compiler-explorer/pull/9218)** &nbsp; ![In review](https://img.shields.io/badge/In%20review-d29922?style=flat-square&logo=github&logoColor=white)
+
+> Corrupted or truncated layouts in browser storage could break app startup. Added validation that falls back to the default layout and drops unusable entries, with tests for valid and malformed inputs.
+
+![C++](https://img.shields.io/badge/C%2B%2B%20toolchains-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
