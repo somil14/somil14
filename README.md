@@ -33,9 +33,9 @@ Software Engineer at Fusion Tech (TraQez) · working on **Corefix**, an API secu
 
 **At work: [Corefix](#the-build-stack)**, API security tooling that turns raw browser and API traffic into findings a team can act on: what changed, what leaked, and what nobody documented.
 
-**On my own time:**
+**Open-source Contributions**
 
-1. **[BranchHub](#-branchhub)**: a Chrome extension that captures the decisions buried in long AI chats. Published on the Chrome Web Store.
+1. **[BranchHub](#-branchhub)**: a Chrome extension that captures the decisions buried in long AI chats. Published on the Chrome Web Store | (https://chromewebstore.google.com/detail/corefix-security-recorder/chibaoiobkclhiieocggohhofcmcejgi)
 2. **[SentinelParse](#%EF%B8%8F-sentinelparse)**: a security-focused AI chat parser and exporter with inline PII highlighting and risk badges.
 3. **[Compiler Explorer](#open-source-impact-verified)**: fixing bugs upstream in the online compiler sandbox behind godbolt.org.
 
@@ -97,7 +97,7 @@ Previous team at Fusion Tech. Built a Chrome extension that records HAR traffic,
 
 A chat decision capture tool. Records conversation branches in AI chats and surfaces the decisions that matter, so they don't disappear into a scroll.
 
-`Chrome Extension` `JavaScript` ![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-published-00c853?style=flat-square&logo=googlechrome&logoColor=white)
+`Chrome Extension` `JavaScript` ![Chrome Web Store](https://chromewebstore.google.com/detail/corefix-security-recorder/chibaoiobkclhiieocggohhofcmcejgi)
 
 </td>
 <td width="50%" valign="top">
